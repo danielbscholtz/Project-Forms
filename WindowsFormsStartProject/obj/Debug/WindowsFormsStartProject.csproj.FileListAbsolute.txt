@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.exe.config
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.exe
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.pdb
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.Properties.Resources.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.exe
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.pdb
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.LottoMax.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.MainForm.resources

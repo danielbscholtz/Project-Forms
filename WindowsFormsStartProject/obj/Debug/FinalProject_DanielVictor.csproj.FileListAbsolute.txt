@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.exe.config
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.exe
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\bin\Debug\WindowsFormsStartProject.pdb
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\FinalProject_DanielVictor.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\FinalProject_DanielVictor.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.LottoMax.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.MainForm.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.Properties.Resources.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\FinalProject_DanielVictor.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\FinalProject_DanielVictor.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.exe
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.pdb
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.Lotto649.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.MoneyExchange.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.TempConv.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.Calculator.resources
+C:\Users\danie\source\repos\WindowsFormsStartProject\WindowsFormsStartProject\obj\Debug\WindowsFormsStartProject.IP4_Validator.resources
